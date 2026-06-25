@@ -100,5 +100,3 @@ MIT
 
 - [SeedMusic / Jimeng AI](https://jimeng.jianying.com) by ByteDance
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) by Anthropic
-- Structure reference: [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)
-

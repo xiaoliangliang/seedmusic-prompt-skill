@@ -243,5 +243,3 @@ MIT
 
 - [SeedMusic / 即梦音乐](https://jimeng.jianying.com) — 字节跳动 AI 音乐生成能力
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Anthropic 可扩展 Skill 系统
-- 结构参考：[songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)
-
